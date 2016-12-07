@@ -1,0 +1,3 @@
+[submodule "gso"]
+	path = gso
+	url = https://gerrit.open-o.org/r/gso
